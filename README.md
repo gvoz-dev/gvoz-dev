@@ -1,1 +1,1 @@
-Developer and teacher from Kursk, Russia
+# Hello, ~~World~~ GitHub! 🖖
